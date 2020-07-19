@@ -3,7 +3,9 @@
 </p>
 
 ## Description
-Build CRUD REST APIs with Nestjs Framework and MongoDB database system. Made this application is only for learning purpose.
+Build CRUD REST APIs with Nestjs Framework and MongoDB database system, you can have add, edit update and delete user APIs.
+`http://localhost:3000/users`
+Made this application is only for learning purpose.
 
 ## Installation
 
@@ -12,7 +14,7 @@ $ npm install
 ```
 
 ## Running the app
-Change the MongoDB URI `mongodb://localhost/nest` with your URI from app.module.ts
+Change the MongoDB URI `mongodb://localhost/nest` with your URI from `app.module.ts`
 
 ```bash
 # development
